@@ -1,0 +1,75 @@
+[
+{
+  "email" : "ntminh1@gmail.com",
+  "name": "minh",
+  "phone" : "1234567890",
+  "password" : "12345678",
+  "passwordCf" : "12345678" 
+},
+
+{
+  "email" : "",
+  "name": "minh",
+  "phone" : "1234567890",
+  "password" : "12345678",
+  "passwordCf" : "12345678" 
+    
+},
+{
+  "email" : "ntminh1@gmail.com ",
+  "name": "",
+  "phone" : "1234567890",
+  "password" : "12345678",
+  "passwordCf" : "12345678" 
+    
+},
+{
+  "email" : "ntminh1@gmail.com ",
+  "name": "minh",
+  "phone" : "",
+  "password" : "12345678",
+  "passwordCf" : "12345678" 
+    
+},
+{
+  "email" : "ntminh1@gmail.com ",
+  "name": "minh",
+  "phone" : "1234567890",
+  "password" : "",
+  "passwordCf" : "" 
+    
+},
+
+{
+  "email" : "ntminh1@gmail.com ",
+  "name": "minh",
+  "phone" : "1234567890",
+  "password" : "1234567",
+  "passwordCf" : "12345678" 
+    
+},
+{
+  "email" : "ntminh1@gmail.com ",
+  "name": "minh",
+  "phone" : "1234567890",
+  "password" : "12345",
+  "passwordCf" : "" 
+    
+},
+{
+  "email" : "ntminh1@gmail.com ",
+  "name": "minh",
+  "phone" : "abc",
+  "password" : "12345678",
+  "passwordCf" : "12345678" 
+    
+},
+{
+  "email" : "ntminh",
+  "name": "minh",
+  "phone" : "1234567890",
+  "password" : "12345678",
+  "passwordCf" : "12345678" 
+    
+}
+]

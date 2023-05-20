@@ -1,0 +1,44 @@
+[
+{
+  "email" : "ntminh164@gmail.com",
+  "password" : "12345678"
+ 
+},
+
+{
+  "email" : "ntminh164@gmail.com",
+  "password" : "1234567"
+ 
+},
+{
+  "email" : "ntminh@gmail.com",
+  "password" : "12345678"
+ 
+},
+{
+  "email" : "",
+  "password" : "12345678"
+ 
+},
+{
+  "email" : "ntminh@gmail.com",
+  "password" : ""
+ 
+},
+
+{
+  "email" : "         ntminh164@gmail.com           ",
+  "password" : "12345678"
+ 
+},
+{
+  "email" : "ntminh164@gmail.com",
+  "password" : "      12345678        "
+ 
+},
+{
+  "email" : "<script>alert(hacked)</script>",
+  "password" : "12345678"
+ 
+}
+]
