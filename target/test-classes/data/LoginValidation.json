@@ -37,7 +37,7 @@
  
 },
 {
-  "email" : "<script>alert(hacked)</script>",
+  "email" : "<script>alert'hacked'</script>",
   "password" : "12345678"
  
 }
