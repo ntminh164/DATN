@@ -18,6 +18,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 
 import com.fasterxml.jackson.core.type.TypeReference;
@@ -106,10 +107,10 @@ public class BaseTest {
 	
 	}
 	
-//	@AfterClass(alwaysRun=true)
-//	
-//	public void tearDown()
-//	{
-//		driver.close();
-//	}
+	@AfterClass(alwaysRun=true)
+	
+	public void tearDown()
+	{
+		driver.close();
+	}
 }
